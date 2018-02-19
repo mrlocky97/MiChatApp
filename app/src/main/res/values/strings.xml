@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MiChatApp</string>
+    <string name="sebastian">Sebastian</string>
+    <string name="hola_bienvenido">Hola bienvenido</string>
+    <string name="_00_00" />
+    <string name="todo" />
+    <string name="enviar">Enviar</string>
+    <string name="escribe_un_mensaje">Escribe un mensaje</string>
+    <string name="sebas">SEBAS</string>
+    <string name="foto1">TODO</string>
+    <string name="hora">00:00</string>
+</resources>
